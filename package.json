@@ -1,0 +1,12 @@
+{
+  "name": "love-letter-website",
+  "version": "1.0.0",
+  "description": "My Love Letter Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
